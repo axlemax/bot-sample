@@ -1,0 +1,15 @@
+{
+  "name": "mybot",
+  "version": "1.0.0",
+  "description": "Testing creation of a Microsoft bot.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zander Maxwell",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^4.0.0-m2.2",
+    "restify": "^7.1.0"
+  }
+}
